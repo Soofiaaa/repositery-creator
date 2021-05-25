@@ -1,5 +1,5 @@
 ## Introduction
-This is a script to create a repositery, name it, put a description, init the folder locally, add a new branch (main), push it to Git Hub and makes it private through the command line automatically. <br/>
+This is a script to create a repository, name it, put a description, init the folder locally, add a new branch (main), push it to Git Hub and makes it private through the command line automatically. <br/>
 It makes me save a lot of times and could make you save times too! <br/>
 
 ## Installation
